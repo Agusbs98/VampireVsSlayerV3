@@ -1,7 +1,7 @@
 # VampireVsSlayerV3
 Practica sobre un juego de defensa contra vampiros
 
-## Herramientas utilizadas
+## Lenguaje utilizado
 - JAVA
 
 ## Calificación
